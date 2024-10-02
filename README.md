@@ -18,4 +18,4 @@ Tracking my ideas &amp; rationales for contributions to CPython
 ## New REPL
 - [ ] **Untracked**: Fix `python -I -i -m asyncio` behavior
   - **Rationale:** It's buggy!
-  - **Cost/Benefit**: High cost and an uneasy fix (remember we can just do `set(context.keys()) & ...`). High benefit—correct behavior and a supported way of testing the asyncio REPL
+  - **Cost/Benefit**: Unknown time cost. High benefit—correct behavior and a supported way of testing the asyncio REPL
