@@ -8,3 +8,7 @@ Tracking my ideas &amp; rationales for contributions to CPython
   - [ ] To correct: those members don't return lists, they return immutable sequences over keys/items/values
 - [ ] Make HAMT support set-like operations like dict views (`&`, `|` etc.)
   - [ ] **TODO:** Read the HAMT implementation and see if it's feasible and theoretically correct
+
+## New REPL
+- [ ] Fix `python -I -i -m asyncio` behavior
+
